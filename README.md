@@ -1,0 +1,1 @@
+Kendi cikardigim notlarla olusturulmus basit duzeyde olan kotlin syntax'lari icerir
